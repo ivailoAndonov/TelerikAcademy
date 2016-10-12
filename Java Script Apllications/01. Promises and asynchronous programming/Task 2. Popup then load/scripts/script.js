@@ -5,8 +5,7 @@
     function popUp() {
 
         let myPromis = new Promise((resolve, reject) => {
-            console.log(resolve);
-            return resolve('ok');
+            return resolve();
         });
 
         function loadPopUp() {
@@ -21,8 +20,8 @@
         }
 
         myPromis
-            .then(console.log(resolve))
-            //.then(timeOut);
+            .then(loadPopUp)
+            .then(timeOut);
     }
 
 })();
