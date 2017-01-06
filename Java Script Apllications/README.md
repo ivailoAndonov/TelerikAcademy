@@ -1,1 +1,0 @@
-[Telerik Academy Apllications](https://telerikacademy.com/Courses/Courses/Details/350)

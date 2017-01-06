@@ -1,2 +1,2 @@
-# TelerikAcademy
-TelerikAcademy
+# [Telerik Academy](https://telerikacademy.com)
+
