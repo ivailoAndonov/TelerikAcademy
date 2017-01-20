@@ -6,7 +6,7 @@ function solve(args) {
         result.push(i);
     }
 
-    return result.join(' ');
+    console.log(result.join(' ')); 
 }
 
-console.log(solve(['5']));
+solve(['5']);
